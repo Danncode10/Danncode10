@@ -44,8 +44,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <div style="display: inline-block; text-align: center;">
