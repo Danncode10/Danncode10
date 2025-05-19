@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science (Robotics) student at **Nueva Vizcaya State University**.  
 🤖 I’m passionate about building intelligent systems through **AI** and **Software Engineering**.  
-💡 I enjoy working on innovative projects that blend **hardware** and **software**.
+💡 I enjoy working on innovative projects that blend **hardware** and **software**. 
 
 ---
 
