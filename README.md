@@ -42,7 +42,7 @@
 
 ## 📚 Currently Learning
 
-- 🌐 **JavaScript** to build dynamic websites and apps
+- 🌐 **JavaScript**(./Learning/Javascript.md) to build dynamic websites and apps
 - ⚛️ **React** for developing modern web interfaces
 - 📱 **React Native** to create cross-platform mobile applications
 - 🔙 Exploring **Node.js** as a backend solution for full-stack development
