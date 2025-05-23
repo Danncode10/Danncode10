@@ -38,11 +38,16 @@
 - Familiar with sensors, actuators, and motor control
 - Working with Arduino-based robotics projects
 
-
-
 ---
 
-<div align="center">
+## 📚 Currently Learning
+
+- 🌐 **JavaScript** to build dynamic websites and apps
+- ⚛️ **React** for developing modern web interfaces
+- 📱 **React Native** to create cross-platform mobile applications
+- 🔙 Exploring **Node.js** as a backend solution for full-stack development
+
+---
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -52,8 +57,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danncode10&layout=compact&theme=tokyonight" width="400" />
   </div>
 </div>
-
-
 
 ---
 
@@ -65,4 +68,3 @@
 ---
 
 _“Always learning. Always building.”_
-
