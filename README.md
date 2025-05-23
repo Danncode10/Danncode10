@@ -46,6 +46,7 @@
 - ⚛️ **React** for developing modern web interfaces
 - 📱 **React Native** to create cross-platform mobile applications
 - 🔙 Exploring **Node.js** as a backend solution for full-stack development
+- 🧱 Learning **3D printing** for robotics prototyping and part design
 
 ---
 
