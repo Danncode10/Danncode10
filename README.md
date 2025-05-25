@@ -57,6 +57,10 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danncode10&layout=compact&theme=tokyonight" width="400" />
   </div>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesanguan&theme=react-dark&hide_border=true&area=true" width="90%">
+  </div>
 </div>
 
 ---
