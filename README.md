@@ -44,7 +44,7 @@
 
 | Topic                  | Description                                                 | ✅ Done |
 |------------------------|-------------------------------------------------------------|--------|
-| 🌐 [**JavaScript**](./Learning/Javascript.md)     | Build dynamic websites and apps                          |        |
+| 🌐 [**JavaScript**](./Learning/Javascript.md)     | Build dynamic websites and apps                          |   ✅     |
 | ⚛️ [**React**](./Learning/React.md)              | Develop modern web interfaces                            |        |
 | 📱 [**React Native**](./Learning/ReactNative.md) | Create cross-platform mobile applications                |        |
 | 🔙 [**Node.js**](./Learning/NodeJS.md)           | Backend solution for full-stack development              |        |
