@@ -42,11 +42,14 @@
 
 ## 📚 Currently Learning
 
-- 🌐 [**JavaScript**](./Learning/Javascript.md) – to build dynamic websites and apps
-- ⚛️ [**React**](./Learning/React.md) – for developing modern web interfaces
-- 📱 [**React Native**](./Learning/ReactNative.md) – to create cross-platform mobile applications
-- 🔙 [**Node.js**](./Learning/NodeJS.md) – as a backend solution for full-stack development
-- 🧱 **3D printing** – for robotics prototyping and part design
+| Topic                  | Description                                                 | ✅ Done |
+|------------------------|-------------------------------------------------------------|--------|
+| 🌐 [**JavaScript**](./Learning/Javascript.md)     | Build dynamic websites and apps                          |        |
+| ⚛️ [**React**](./Learning/React.md)              | Develop modern web interfaces                            |        |
+| 📱 [**React Native**](./Learning/ReactNative.md) | Create cross-platform mobile applications                |        |
+| 🔙 [**Node.js**](./Learning/NodeJS.md)           | Backend solution for full-stack development              |        |
+| 🧱 **3D Printing**                               | Robotics prototyping and designing custom hardware parts |        |
+
 
 ---
 
