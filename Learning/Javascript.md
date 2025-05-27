@@ -1,24 +1,26 @@
-# 🧠 JavaScript Learning Plan: "Know the Code + Use AI"
+# JavaScript Learning Plan: "Know the Code + Use AI"
 
-### 📅 Duration: \~2 weeks
-
-### 🛠️ Tools:
-
-* **VS Code** or online editor (CodePen, JSFiddle)
-* **ChatGPT or GitHub Copilot** for AI coding help
-* **Google Chrome DevTools** for debugging
+📅 Duration: \~2 weeks
 
 ---
 
-## ✅ Week 1: JavaScript Foundations (Core Concepts)
+## 🛠️ Tools:
 
-### 📘 Lesson 1.1 – Variables, Data Types, and Basic Operations
+* VS Code or online editor (CodePen, JSFiddle)
+* ChatGPT or GitHub Copilot for AI coding help
+* Google Chrome DevTools for debugging
+
+---
+
+## ✅ JavaScript Foundations (Core Concepts)
+
+### 📘 Lesson 1 – Variables, Data Types, and Basic Operations
 
 **You Learn:**
 
 * `let`, `const`, `var` (when to use each)
 * Strings, numbers, booleans, arrays, objects
-* Basic operators (+, -, ===, &&, ||)
+* Basic operators (`+`, `-`, `===`, `&&`, `||`)
 
 **You Do:**
 
@@ -26,13 +28,12 @@
 * Practice in browser console
 
 **AI Tip 💡:**
-
-> Ask: “Generate a JS object that stores student info and prints a formatted sentence.”
-> Then tweak: Change output, add nested objects.
+Ask: “Generate a JS object that stores student info and prints a formatted sentence.”
+Then tweak: Change output, add nested objects.
 
 ---
 
-### 📘 Lesson 1.2 – Functions and Scope
+### 📘 Lesson 2 – Functions and Scope
 
 **You Learn:**
 
@@ -45,13 +46,12 @@
 * Build a calculator function
 
 **AI Tip 💡:**
-
-> Ask: “Write a JS function to convert Celsius to Fahrenheit.”
-> Tweak: Add input validation or refactor to arrow function.
+Ask: “Write a JS function to convert Celsius to Fahrenheit.”
+Tweak: Add input validation or refactor to arrow function.
 
 ---
 
-### 📘 Lesson 1.3 – Arrays and Loops
+### 📘 Lesson 3 – Arrays and Loops
 
 **You Learn:**
 
@@ -64,13 +64,12 @@
 * Modify with `.map()` to capitalize all items
 
 **AI Tip 💡:**
-
-> Ask: “Create a JS loop that doubles each number in an array.”
-> Then rewrite using `.map()` or `.reduce()`.
+Ask: “Create a JS loop that doubles each number in an array.”
+Then rewrite using `.map()` or `.reduce()`.
 
 ---
 
-### 📘 Lesson 1.4 – Objects and the DOM
+### 📘 Lesson 4 – Objects and the DOM
 
 **You Learn:**
 
@@ -82,15 +81,14 @@
 * Make a simple webpage that updates a message on button click
 
 **AI Tip 💡:**
-
-> Ask: “Add a click event listener to a button that changes page text.”
-> Explain what `event.target` is doing.
+Ask: “Add a click event listener to a button that changes page text.”
+Explain what `event.target` is doing.
 
 ---
 
-## ✅ Week 2: Intermediate JS + AI Workflow
+## ✅ Intermediate JS + AI Workflow
 
-### 📘 Lesson 2.1 – Conditions & Events
+### 📘 Lesson 5 – Conditions & Events
 
 **You Learn:**
 
@@ -102,12 +100,11 @@
 * Build a grade calculator that takes score and returns feedback
 
 **AI Tip 💡:**
-
-> Ask: “Build a JS program to check pass/fail based on score.”
+Ask: “Build a JS program to check pass/fail based on score.”
 
 ---
 
-### 📘 Lesson 2.2 – Working with the Fetch API
+### 📘 Lesson 6 – Working with the Fetch API
 
 **You Learn:**
 
@@ -120,15 +117,15 @@
 * Display a random joke from an API on a button click
 
 **AI Tip 💡:**
-
-> Ask: “Fetch a random joke from an API and display it on a webpage.”
-> Modify: Change layout, style, or add loader.
+Ask: “Fetch a random joke from an API and display it on a webpage.”
+Modify: Change layout, style, or add loader.
 
 ---
 
-### 📘 Lesson 2.3 – Mini Project: Profile Viewer App
+### 📘 Lesson 7 – Mini Project: Profile Viewer App
 
-**Goal:** Build a webpage that shows a user's profile card based on mock data or API
+**Goal:**
+Build a webpage that shows a user's profile card based on mock data or API
 
 **Concepts Used:**
 
@@ -138,13 +135,12 @@
 * Events
 
 **AI Tip 💡:**
-
-> Ask: “Build a profile viewer with tabs (about, contact).”
-> Review and modify layout and logic.
+Ask: “Build a profile viewer with tabs (about, contact).”
+Review and modify layout and logic.
 
 ---
 
-### 📘 Lesson 2.4 – How to Use AI Effectively as a Dev
+### 📘 Lesson 8 – How to Use AI Effectively as a Dev
 
 **You Learn:**
 
@@ -153,8 +149,7 @@
 * Refactoring with AI (e.g., “Make this code cleaner”)
 
 **Exercise:**
-
-* Give ChatGPT a vague prompt → improve it → test output → explain changes
+Give ChatGPT a vague prompt → improve it → test output → explain changes
 
 ---
 
