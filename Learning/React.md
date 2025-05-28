@@ -1,24 +1,26 @@
 # ⚛️ React Lesson Plan: Know the Code + AI + Real Dev Workflow
 
-### 📅 Duration: 2–3 weeks
+📅 **Duration:** 2–3 weeks
 
-### 🛠 Tools:
+---
 
-* **VS Code** + Live Server or React Dev Server
-* **Google, StackOverflow, GitHub, CodeSandbox**
-* **ChatGPT/Copilot** for quick UI/components
-* **React DevTools** for debugging in browser
+## 🛠 Tools:
+
+* VS Code + Live Server or React Dev Server
+* Google, StackOverflow, GitHub, CodeSandbox
+* ChatGPT/Copilot for quick UI/components
+* React DevTools for debugging in browser
 
 ---
 
 ## ✅ Week 1: React Fundamentals (Core Building Blocks)
 
-### 📘 Lesson 1.1 – Getting Started with React
+### 📘 **Lesson 1 – Getting Started with React**
 
 **You Learn:**
 
 * What React is and why it's component-based
-* Setting up with `create-react-app` or [Vite](https://vitejs.dev/)
+* Setting up with `create-react-app` or Vite
 * Folder structure
 
 **You Do:**
@@ -27,13 +29,11 @@
 * Create your first `App` component
 
 **Real Dev Tip 🧑‍💻:**
-
-> Search “React starter template GitHub” and compare setups.
-> Tweak imported layouts from CodeSandbox or GitHub UI examples.
+Search “React starter template GitHub” and compare setups. Tweak imported layouts from CodeSandbox or GitHub UI examples.
 
 ---
 
-### 📘 Lesson 1.2 – JSX & Components
+### 📘 **Lesson 2 – JSX & Components**
 
 **You Learn:**
 
@@ -47,13 +47,11 @@
 * Render multiple cards in `App.js`
 
 **AI Tip 💡:**
-
-> Ask: “Create a React component that takes a name, bio, and image as props and renders a card.”
-> Modify layout, style, or props.
+Ask: “Create a React component that takes a name, bio, and image as props and renders a card.” Modify layout, style, or props.
 
 ---
 
-### 📘 Lesson 1.3 – useState & User Interactions
+### 📘 **Lesson 3 – useState & User Interactions**
 
 **You Learn:**
 
@@ -66,18 +64,16 @@
 * Form that updates state as you type
 
 **Real Dev Tip 🧑‍💻:**
-
-> Google “React useState example with form”
-> Copy working logic, improve UI/UX using Tailwind or Bootstrap
+Google “React useState example with form.” Copy working logic, improve UI/UX using Tailwind or Bootstrap.
 
 ---
 
-### 📘 Lesson 1.4 – Lists and Keys
+### 📘 **Lesson 4 – Lists and Keys**
 
 **You Learn:**
 
 * `map()` in React
-* Unique `key` props
+* Unique key props
 * Conditional rendering
 
 **You Do:**
@@ -86,15 +82,13 @@
 * Add new item using a form
 
 **AI Tip 💡:**
-
-> Ask: “React todo list with `useState` and `map()`”
-> Improve: Add delete or edit function
+Ask: “React todo list with useState and map()” Improve: Add delete or edit function.
 
 ---
 
 ## ✅ Week 2: Intermediate React Concepts
 
-### 📘 Lesson 2.1 – useEffect (Data Loading)
+### 📘 **Lesson 5 – useEffect (Data Loading)**
 
 **You Learn:**
 
@@ -106,13 +100,11 @@
 * Fetch and display users from JSONPlaceholder API
 
 **Real Dev Tip 🧑‍💻:**
-
-> Search “React fetch API example from JSONPlaceholder”
-> Paste it, then change API URL or display format
+Search “React fetch API example from JSONPlaceholder.” Paste it, then change API URL or display format.
 
 ---
 
-### 📘 Lesson 2.2 – React Router
+### 📘 **Lesson 6 – React Router**
 
 **You Learn:**
 
@@ -124,13 +116,11 @@
 * Create a 3-page app: Home, About, Contact
 
 **AI Tip 💡:**
-
-> Ask: “Simple React app with 3 pages using react-router-dom v6”
-> Modify routes and UI
+Ask: “Simple React app with 3 pages using react-router-dom v6.” Modify routes and UI.
 
 ---
 
-### 📘 Lesson 2.3 – Styling in React
+### 📘 **Lesson 7 – Styling in React**
 
 **You Learn:**
 
@@ -139,18 +129,17 @@
 
 **You Do:**
 
-* Restyle your Profile Card with Bootstrap or Tailwind
+* Restyle your `ProfileCard` with Bootstrap or Tailwind
 
 **Real Dev Tip 🧑‍💻:**
-
-> Google “React Tailwind profile card UI”
-> Copy and integrate into your component
+Google “React Tailwind profile card UI.” Copy and integrate into your component.
 
 ---
 
-### 📘 Lesson 2.4 – Mini Project: React Dashboard
+### 📘 **Lesson 8 – Mini Project: React Dashboard**
 
-**Project:** Build a small dashboard with:
+**Project:**
+Build a small dashboard with:
 
 * Sidebar + nav (from UI kit)
 * Dynamic data with `useEffect`
@@ -158,20 +147,25 @@
 * Routing between sections
 
 **AI + Real Dev Hybrid 💡:**
-
-* Ask: “React admin dashboard UI component with Tailwind”
-* Improve: Customize layout, add your own data
+Ask: “React admin dashboard UI component with Tailwind”
+**Improve:** Customize layout, add your own data.
 
 ---
 
 ## ✅ Week 3 (Optional but Powerful)
 
-### 📘 Lesson 3.1 – Forms and Controlled Components
+### 📘 **Lesson 9 – Forms and Controlled Components**
+
+**You Learn:**
 
 * Validate form data with JS
 * Handle multiple input types
 
-### 📘 Lesson 3.2 – Component Composition & Lifting State
+---
+
+### 📘 **Lesson 10 – Component Composition & Lifting State**
+
+**You Learn:**
 
 * Parent-child communication
 * Move state up and down the tree
@@ -180,14 +174,14 @@
 
 ## 🛠️ Tools Real Developers Use (And You Should Too)
 
-| Tool                       | Why Use It                                          |
-| -------------------------- | --------------------------------------------------- |
-| **Google & StackOverflow** | Fastest way to get working code for UI logic        |
-| **GitHub**                 | Explore real-world codebases and extract components |
-| **CodeSandbox**            | Preview and edit open-source UI examples            |
-| **Figma + Tailwind UI**    | Design inspiration to match layout/UI               |
-| **ChatGPT / Copilot**      | Rapid boilerplate and small fixes                   |
-| **React DevTools**         | Inspect component state and props live              |
+| Tool                   | Why Use It                                          |
+| ---------------------- | --------------------------------------------------- |
+| Google & StackOverflow | Fastest way to get working code for UI logic        |
+| GitHub                 | Explore real-world codebases and extract components |
+| CodeSandbox            | Preview and edit open-source UI examples            |
+| Figma + Tailwind UI    | Design inspiration to match layout/UI               |
+| ChatGPT / Copilot      | Rapid boilerplate and small fixes                   |
+| React DevTools         | Inspect component state and props live              |
 
 ---
 
