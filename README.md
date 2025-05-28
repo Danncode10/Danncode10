@@ -61,7 +61,7 @@
   </div>
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danncode10&theme=react-dark&hide_border=true&area=true" width="90%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danncode10&theme=react-dark&hide_border=true&area=true" width="100%">
   </div>
 </div>
 
