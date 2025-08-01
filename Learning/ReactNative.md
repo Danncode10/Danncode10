@@ -217,7 +217,7 @@ Search:
 ---
 
 ```
-Review in Progress (RNForms and Nativewind
+Review in Progress (RNForms and Nativewind Day 2
 ```
 
 ## 🧪 Playground Platforms
