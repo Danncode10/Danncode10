@@ -48,8 +48,8 @@
 |------------------------|-------------------------------------------------------------|--------|
 | 🌐 [**JavaScript**](./Learning/Javascript.md)     | Build dynamic websites and apps                          |   ✅     |
 | ⚛️ [**React**](./Learning/React.md)              | Develop modern web interfaces                            |    ✅    |
-| 📱 [**React Native**](./Learning/ReactNative.md) | Create cross-platform mobile applications                |        |
-| 🔙 [**FastAPI**](./Learning/FastAPI.md)           | Backend solution for full-stack development              |        |
+| 📱 [**React Native**](./Learning/ReactNative.md) | Create cross-platform mobile applications                |     ✅   |
+| 🔙 [**FastAPI**](./Learning/FastAPI.md)           | Backend solution for full-stack development              |    ✅    |
 | 🧱 **3D Printing**                               | Robotics prototyping and designing custom hardware parts |        |
 
 
