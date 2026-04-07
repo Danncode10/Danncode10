@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Dann!   
 
 🎓 **Computer Science (Robotics)** student at **Nueva Vizcaya State University**.  
-🚀 **Full-Stack Developer** & **Robotics Enthusiast** practicing the art of **"Vibe Coding"**—logic-first development powered by AI.  
-💡 I build, break, and scale intelligent systems that bridge the gap between **Software** and **Physical Reality**.
+🚀 **Full-Stack Developer** & **Robotics Enthusiast** I build, break, and scale intelligent systems that bridge the gap between **Software** and **Physical Reality**.
 
 ---
 
@@ -31,7 +30,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3E4C59?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌐 Full-Stack Development (Vibe Coding Stack)
+### 🌐 Full-Stack Development 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -70,13 +69,18 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
+  
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danncode10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=8&theme=merko"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danncode10&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&theme=react&hide_border=true" />
+    </a>
   </div>
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danncode10&theme=react-dark&hide_border=true&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danncode10&theme=react-dark&hide_border=true&area=true&custom_title=Dann's%20Contribution%20Graph" width="100%">
   </div>
 </div>
 
