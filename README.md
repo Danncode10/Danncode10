@@ -1,56 +1,55 @@
 # 👋 Hi, I'm Dann!   
 
-🎓 I'm a Computer Science (Robotics) student at **Nueva Vizcaya State University**.  
-🤖 I’m passionate about building intelligent systems through **AI** and **Software Engineering**.  
-💡 I enjoy working on innovative projects that blend **hardware** and **software**. 
+🎓 **Computer Science (Robotics)** student at **Nueva Vizcaya State University**.  
+🚀 **Full-Stack Developer** & **Robotics Enthusiast** practicing the art of **"Vibe Coding"**—logic-first development powered by AI.  
+💡 I build, break, and scale intelligent systems that bridge the gap between **Software** and **Physical Reality**.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Current Focus
 
-- 🧠 Explore Artificial Intelligence, Robotics & Machine Learning
-- 💻 Code in `C++` and `Python`
-- 🛠 Build smart systems with Arduino
-- 🎯 Dreaming of a career in AI or Software Engineering
+- 🦾 **Project AVATAR:** Mapping VR landmarks to physical robotic actuation (Real-time POV).
+- ⚖️ **AttyJuan.ai:** Building a specialized AI legal assistant for Filipinos.
+- ⚡ **DannFlow:** Developing high-performance, secure website templates for rapid prototyping.
+- 📈 **GCI World 2026:** Currently honing my AI skills via University of Tokyo's global course.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3E4C59?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Web & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🤖 Robotics & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-EA4335?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ---
 
-## 🤖 Robotics Skills
+## 🦾 Robotics & Engineering
 
-- Design and implement simple robotics systems
-- Familiar with sensors, actuators, and motor control
-- Working with Arduino-based robotics projects
+- **Reverse Engineering:** Mechanical component analysis and 3D scanning.
+- **Additive Manufacturing:** Expert in FDM prototyping (Creality Ender 3 V3 KE).
+- **Landmark Mapping:** Real-time predictive actuation for robotic limbs.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning & Mastering
 
-| Topic                  | Description                                                 | ✅ Done |
-|------------------------|-------------------------------------------------------------|--------|
-| 🌐 [**JavaScript**](./Learning/Javascript.md)     | Build dynamic websites and apps                          |   ✅     |
-| ⚛️ [**React**](./Learning/React.md)              | Develop modern web interfaces                            |    ✅    |
-| 📱 [**React Native**](./Learning/ReactNative.md) | Create cross-platform mobile applications                |     ✅   |
-| 🔙 [**FastAPI**](./Learning/FastAPI.md)           | Backend solution for full-stack development              |    ✅    |
-| 🧱 **3D Printing**                               | Robotics prototyping and designing custom hardware parts |        |
+| Topic                   | Description                                                 | Status |
+|-------------------------|-------------------------------------------------------------|--------|
+| 🌐 **Next.js 14+** | Server-side rendering and optimized web architectures        | ✅ Done |
+| 🛡️ **PostgreSQL** | Advanced relational database management and scaling         | ✅ Done |
+| 🖨️ **3D Modeling** | Functional part design in Fusion 360 and Blender            | 🔄 In Progress |
+| 🧠 **Predictive Mapping**| Synchronizing biological motion to mechanical systems       | 🔄 In Progress |
 
 
 ---
@@ -71,9 +70,9 @@
 
 ## 📫 Let's Connect!
 
-- 📧 Email: *Lesterdannlopez7@gmail.com*  
+- 📧 Email: *Lesterdannlopez7@gmail.com* - 💼 [LinkedIn](https://www.linkedin.com/in/lester-dann-lopez-26874b190/)
 - 🌐 [GitHub](https://github.com/Danncode10)
 
 ---
 
-_“Always learning. Always building.”_
+_"Build fast, fail often, learn everything."_
