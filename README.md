@@ -70,14 +70,14 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  <a href="https://github.com/danncode10">
+  <a href="https://github.com/Danncode10">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danncode10&theme=react&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 
   <br/>
 
-  <a href="https://github.com/danncode10">
-    <img src="https://github-profile-trophy.vercel.app/?username=Danncode10&theme=onestar&rank=SSS,SS,S,AAA,AA,A&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/Danncode10">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&theme=react&hide_border=true" />
   </a>
 
   <br/>
