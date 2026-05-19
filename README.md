@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dann.   
+# 👋 Hi, I'm Dann 
 
 🎓 **Computer Science (Robotics)** student at **Nueva Vizcaya State University**.  
 🚀 **Full-Stack Developer** & **Robotics Enthusiast** I build, break, and scale intelligent systems that bridge the gap between **Software** and **Physical Reality**.
