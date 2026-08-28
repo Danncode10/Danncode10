@@ -1,7 +1,8 @@
-<!-- Terminal Style Header -->
+<!-- Animated Claude Mascot Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=150&section=header&text=Lester%20Dann%20Lopez&fontSize=50&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Robotics%20%7C%20AI%20Automation&descAlignY=60&descSize=20&fontColor=4ADE80" width="100%"/>
+  <img src="claude_bot.svg" width="200" alt="Cute Claude AI Mascot" />
 
+  <br/>
   <a href="https://github.com/Danncode10">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=>+I'm+lazy%2C+that's+why+I+build+bots+to+do+my+jobs.;>+Building+autonomous+OpenClaw+Discord+agents.;>+Bridging+software+and+physical+reality.;>+Automating+everything+I+touch." alt="Typing SVG" />
   </a>
