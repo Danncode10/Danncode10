@@ -94,18 +94,6 @@
 
 <img src="divider.svg" width="100%" />
 
-## <img src="mini_claude.svg" width="30" align="top" /> `> now_playing.sh`
-
-<div align="center">
-  <a href="https://spotify.com">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bg_color=151515&bar_color=d97757" alt="Spotify Now Playing" width="300" />
-  </a>
-  <br/>
-  <sub><em>(Add your Spotify UID to the image URL above to activate this widget!)</em></sub>
-</div>
-
-<img src="divider.svg" width="100%" />
-
 ## <img src="mini_claude.svg" width="30" align="top" /> `> ping -c 1 contact`
 
 - <img src="https://api.iconify.design/lucide:mail.svg?color=%23d97757" width="16" align="top" /> **Email**: [Lesterdannlopez7@gmail.com](mailto:Lesterdannlopez7@gmail.com)
