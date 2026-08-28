@@ -4,18 +4,18 @@
 
   <br/>
   <a href="https://github.com/Danncode10">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=800&lines=>+I'm+lazy%2C+that's+why+I+build+bots+to+do+my+jobs.;>+Building+autonomous+OpenClaw+Discord+agents.;>+Bridging+software+and+physical+reality.;>+Automating+everything+I+touch." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=d97757&center=true&vCenter=true&width=800&lines=>+I'm+lazy%2C+but+I+build+bots+and+automation+stuff...;>+Building+autonomous+OpenClaw+Discord+agents.;>+Bridging+software+and+physical+reality.;>+Automating+everything+I+touch." alt="Typing SVG" />
   </a>
 </div>
 
-## `> whoami`
+## <img src="mini_claude.svg" width="30" align="top" /> `> whoami`
 
 🎓 **Computer Science (Robotics)** student at **Nueva Vizcaya State University**.  
 🚀 I build, break, and scale intelligent systems. From **AI-powered Discord automation (OpenClaw)** to **ROS 2 robotics**, I create solutions that eliminate manual work.
 
 ---
 
-## `> ls -la ./projects`
+## <img src="mini_claude.svg" width="30" align="top" /> `> ls -la ./projects`
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## `> cat skills.json`
+## <img src="mini_claude.svg" width="30" align="top" /> `> cat skills.json`
 
 ### 🤖 `Robotics_&_AI`
 ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -60,26 +60,26 @@
 
 ---
 
-## `> htop --user Danncode10`
+## <img src="mini_claude.svg" width="30" align="top" /> `> htop --user Danncode10`
 
 <div align="center">
   
   <a href="https://github.com/Danncode10">
-    <img src="https://streak-stats.demolab.com/?user=Danncode10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Danncode10&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&hide_border=true" alt="GitHub Streak Stats" />
   </a>
   <br/>
   <a href="https://github.com/Danncode10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&hide_border=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/Danncode10">
-    <img src="https://ghchart.rshah.org/4ADE80/Danncode10" alt="Activity Graph">
+    <img src="https://ghchart.rshah.org/d97757/Danncode10" alt="Activity Graph">
   </a>
 </div>
 
 ---
 
-## `> ping -c 1 contact`
+## <img src="mini_claude.svg" width="30" align="top" /> `> ping -c 1 contact`
 
 - 📧 **Email**: [Lesterdannlopez7@gmail.com](mailto:Lesterdannlopez7@gmail.com)
 - 💼 **LinkedIn**: [Lester Dann Lopez](https://www.linkedin.com/in/lester-dann-lopez-26874b190/)

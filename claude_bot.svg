@@ -1,40 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 9" width="130" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-15 -10 43 29" width="430" height="290">
   <style>
-    @keyframes float {
-      0%, 100% { transform: translateY(0.5px); }
-      50% { transform: translateY(-0.5px); }
+    @keyframes moveAround {
+      0%, 100% { transform: translate(0, 0); }
+      15% { transform: translate(-10px, -2px); }
+      25% { transform: translate(-15px, 0); }
+      30% { transform: translate(-15px, -6px) scaleY(1.1); }
+      35% { transform: translate(-15px, 0) scaleY(0.9); }
+      40% { transform: translate(-15px, 0) scaleY(1); }
+      55% { transform: translate(10px, -2px); }
+      65% { transform: translate(15px, 0); }
+      70% { transform: translate(15px, -6px) scaleY(1.1); }
+      75% { transform: translate(15px, 0) scaleY(0.9); }
+      80% { transform: translate(15px, 0) scaleY(1); }
     }
     @keyframes blink {
       0%, 92%, 98%, 100% { transform: scaleY(1); }
       95% { transform: scaleY(0.1); }
     }
-    .bot {
-      animation: float 3s ease-in-out infinite;
+    .bot-container {
+      animation: moveAround 7s cubic-bezier(0.45, 0, 0.55, 1) infinite;
     }
     .body-color {
-      fill: #d87656;
+      fill: #d97757;
     }
     .eyes {
       fill: #151515;
       transform-origin: 6.5px 3px;
-      animation: blink 5s infinite;
+      animation: blink 4s infinite;
     }
   </style>
-  <g class="bot">
-    <!-- Body -->
-    <rect x="3" y="0" width="7" height="6" class="body-color" />
-    <!-- Arms -->
-    <rect x="1" y="3" width="11" height="2" class="body-color" />
-    <!-- Legs -->
-    <rect x="3" y="6" width="1" height="2" class="body-color" />
-    <rect x="5" y="6" width="1" height="2" class="body-color" />
-    <rect x="7" y="6" width="1" height="2" class="body-color" />
-    <rect x="9" y="6" width="1" height="2" class="body-color" />
-    
-    <!-- Eyes -->
-    <g class="eyes">
-      <rect x="4" y="2" width="1" height="2" />
-      <rect x="8" y="2" width="1" height="2" />
+  <g class="bot-container">
+    <g class="bot">
+      <!-- Body -->
+      <rect x="3" y="0" width="7" height="6" class="body-color" />
+      <!-- Arms -->
+      <rect x="1" y="3" width="11" height="2" class="body-color" />
+      <!-- Legs -->
+      <rect x="3" y="6" width="1" height="2" class="body-color" />
+      <rect x="5" y="6" width="1" height="2" class="body-color" />
+      <rect x="7" y="6" width="1" height="2" class="body-color" />
+      <rect x="9" y="6" width="1" height="2" class="body-color" />
+      
+      <!-- Eyes -->
+      <g class="eyes">
+        <rect x="4" y="2" width="1" height="2" />
+        <rect x="8" y="2" width="1" height="2" />
+      </g>
     </g>
   </g>
 </svg>
