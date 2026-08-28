@@ -30,6 +30,7 @@
 ## `> cat skills.json`
 
 ### 🤖 `Robotics_&_AI`
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,9 +45,17 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📊 `Data_Science`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3E4C59?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### 🧠 `AI_Automation_&_Agents`
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-4ADE80?style=for-the-badge&logo=discord&logoColor=black)
 
 ---
 
@@ -55,15 +64,15 @@
 <div align="center">
   
   <a href="https://github.com/Danncode10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danncode10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Danncode10&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
   <br/>
   <a href="https://github.com/Danncode10">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danncode10&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <br/>
   <a href="https://github.com/Danncode10">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danncode10&theme=tokyo-night&hide_border=true&area=true&custom_title=System%20Activity%20Logs" width="100%">
+    <img src="https://ghchart.rshah.org/4ADE80/Danncode10" alt="Activity Graph">
   </a>
 </div>
 
