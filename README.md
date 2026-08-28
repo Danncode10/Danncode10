@@ -13,20 +13,35 @@
 🎓 **Computer Science (Robotics)** student at **Nueva Vizcaya State University**.  
 <img src="https://api.iconify.design/lucide:rocket.svg?color=%23d97757" width="18" align="top" /> I build, break, and scale intelligent systems. From **AI-powered Discord automation (OpenClaw)** to **ROS 2 robotics**, I create solutions that eliminate manual work.
 
----
+<img src="divider.svg" width="100%" />
 
 ## <img src="mini_claude.svg" width="30" align="top" /> `> ls -la ./projects`
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| <img src="https://api.iconify.design/lucide:bot.svg?color=%23d97757" width="18" align="top" /> **OpenClaw Automations** | Autonomous Discord bots and task-runners. I build agents so I don't have to do the work myself. | `Python`, `LLMs`, `OpenClaw` |
-| <img src="https://api.iconify.design/lucide:zap.svg?color=%23d97757" width="18" align="top" /> **[DannFlow](https://github.com/Danncode10/DannFlow)** | High-performance, AI-optimized boilerplate. The "source of truth" for AI agents (Claude/Antigravity) to code autonomously. | `Next.js 15`, `Supabase`, `Tailwind` |
-| <img src="https://api.iconify.design/lucide:plane.svg?color=%23d97757" width="18" align="top" /> **[Citrus Drone](https://github.com/Danncode10/autonomous-citrus-drone)** | Autonomous drone-based orchard monitoring system. Tree mapping and Gazebo simulation. | `ROS 2`, `C++`, `Gazebo` |
-| <img src="https://api.iconify.design/lucide:scale.svg?color=%23d97757" width="18" align="top" /> **[AttyJuan.ai](https://github.com/Danncode10/attyjuan-sched)** | AI-powered case management and virtual assistant tailored for Filipino lawyers. | `Next.js`, `AI`, `PostgreSQL` |
-| <img src="https://api.iconify.design/lucide:stethoscope.svg?color=%23d97757" width="18" align="top" /> **[e-VetDog](https://github.com/Danncode10/e-vetdog)** | Comprehensive SaaS management system for veterinary clinics (appointments, records, POS). | `Full-Stack Web`, `SaaS` |
-| <img src="https://api.iconify.design/lucide:package.svg?color=%23d97757" width="18" align="top" /> **[Databox](https://github.com/Danncode10/databox)** | Local-first computer vision dataset labeling tool for YOLO-ready annotations. | `Python`, `Computer Vision` |
+### 🔓 `Public_Open_Source`
+<div align="center">
+  <a href="https://github.com/Danncode10/DannFlow">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Danncode10&repo=DannFlow&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&border_color=333333&show_icons=true" width="48%" />
+  </a>
+  <a href="https://github.com/Danncode10/autonomous-citrus-drone">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Danncode10&repo=autonomous-citrus-drone&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&border_color=333333&show_icons=true" width="48%" />
+  </a>
+  <br/>
+  <a href="https://github.com/Danncode10/databox">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Danncode10&repo=databox&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&border_color=333333&show_icons=true" width="48%" />
+  </a>
+  <a href="https://github.com/Danncode10/ros2-fundamentals-tutorial">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Danncode10&repo=ros2-fundamentals-tutorial&bg_color=151515&title_color=d97757&text_color=d1d1d1&icon_color=d97757&border_color=333333&show_icons=true" width="48%" />
+  </a>
+</div>
 
----
+<br/>
+
+### 🔒 `Enterprise_&_Private_SaaS`
+- <img src="https://api.iconify.design/lucide:bot.svg?color=%23d97757" width="16" align="top" /> **OpenClaw Automations**: Autonomous Discord bots and agents (Private Client Work)
+- <img src="https://api.iconify.design/lucide:scale.svg?color=%23d97757" width="16" align="top" /> **[AttyJuan.ai](https://github.com/Danncode10/attyjuan-sched)**: AI case management for Filipino lawyers
+- <img src="https://api.iconify.design/lucide:stethoscope.svg?color=%23d97757" width="16" align="top" /> **[e-VetDog](https://github.com/Danncode10/e-vetdog)**: Comprehensive SaaS management system for veterinary clinics
+
+<img src="divider.svg" width="100%" />
 
 ## <img src="mini_claude.svg" width="30" align="top" /> `> cat skills.json`
 
@@ -58,7 +73,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-4ADE80?style=for-the-badge&logo=discord&logoColor=black)
 
----
+<img src="divider.svg" width="100%" />
 
 ## <img src="mini_claude.svg" width="30" align="top" /> `> htop --user Danncode10`
 
@@ -77,7 +92,19 @@
   </a>
 </div>
 
----
+<img src="divider.svg" width="100%" />
+
+## <img src="mini_claude.svg" width="30" align="top" /> `> now_playing.sh`
+
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bg_color=151515&bar_color=d97757" alt="Spotify Now Playing" width="300" />
+  </a>
+  <br/>
+  <sub><em>(Add your Spotify UID to the image URL above to activate this widget!)</em></sub>
+</div>
+
+<img src="divider.svg" width="100%" />
 
 ## <img src="mini_claude.svg" width="30" align="top" /> `> ping -c 1 contact`
 
